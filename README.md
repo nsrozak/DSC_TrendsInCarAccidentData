@@ -1,1 +1,1 @@
-# DSC_TrendsInCarAccidentData
+I used Python to analyze trends in data about car accidents. First, I had to read the data into Python. Then, I looked at my data and selected specific columns I was interested in exploring further. I cleaned my data by removing missing values and duplicates. Then I created different graphs to see trends in the data. I used histograms, pie charts, box charts, bar graphs, and scatterplots to view the data. 
